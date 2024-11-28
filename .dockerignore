@@ -1,0 +1,22 @@
+# Exclude virtual environments
+venv/
+env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore logs and temporary files
+*.log
+*.out
+*.err
+
+# Exclude data files (if not needed)
+*.csv
+*.xlsx
+*.json
+
+# Ignore system-specific files
+.DS_Store
+
