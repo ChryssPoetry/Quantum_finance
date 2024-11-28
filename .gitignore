@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.cache/
+
+# Streamlit configuration
+.streamlit/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
